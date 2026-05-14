@@ -14,7 +14,7 @@ Solução para o desafio [QR code component](https://www.frontendmentor.io/chall
 | **Desafio** | [Página do challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) |
 | **Código (repositório)** | [github.com/danielafgsilva/Frontend-Mentor---QR-Code-Exercice](https://github.com/danielafgsilva/Frontend-Mentor---QR-Code-Exercice) |
 | **Solução no Frontend Mentor** | *(opcional — adiciona o link quando submeteres na plataforma)* |
-| **Site em produção** | [“GitHub Pages”](https://github.com/danielafgsilva/Frontend-Mentor---QR-Code-Exercice.git/) |
+| **Site em produção** | [“GitHub Pages”](https://danielafgsilva.github.io/Frontend-Mentor---QR-Code-Exercice/) |
 
 
 ## Tecnologias
